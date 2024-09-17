@@ -12,6 +12,6 @@ Shop Jacket is a simple static website designed to showcase products for an onli
 
 ## Screenshots
 ![![Screenshot 2024-09-17 160622](https://github.com/user-attachments/assets/28146c85-81ac-41d6-9124-0bcc457e4545)
-](https://images.unsplash.com/photo-1470259078422-826894b933aa?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+]
 
 This project is open-source and free to use for learning and development purposes.
